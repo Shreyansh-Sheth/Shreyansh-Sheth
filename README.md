@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shreyansh-Sheth</h1>
+<h1 align="center">Hi 👋, I'm Shreyansh Sheth</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyansh-sheth&label=Profile%20views&color=0e75b6&style=flat" alt="shreyansh-sheth" /> </p>
+
+- 👨‍💻 All of my projects are available at [https://shreyanshsheth.me/](https://shreyanshsheth.me/)
+
+- 📄 Know about my experiences [https://shreyanshsheth.me/Resume.pdf](https://shreyanshsheth.me/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
