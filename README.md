@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shreyansh and I'm a software engineer, from india</h2>
+<h2 align="left">Hi 👋! My name is Shreyansh and I'm a software engineer with 7+ years of experience building, founding and never failing to show up everyday.</h2>
 
 ###
 
